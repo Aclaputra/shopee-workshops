@@ -1,2 +1,2 @@
 # shopee-workshops
-Shopee Code League 2022 workshops Note and Excercises.
+Shopee Code League 2022 workshops Notes and Excercises.
